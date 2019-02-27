@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>博 subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Must Read" title="Must Read">
+            <outline type="rss" text="国家地理中文" title="国家地理中文" xmlUrl="https://feedx.net/rss/nationalgeocn.xml" htmlUrl="https://www.nationalgeographic.com"/>
+        </outline>
+        <outline text="科技" title="科技">
+            <outline type="rss" text="PingWest品玩" title="PingWest品玩" xmlUrl="http://www.pingwest.com/feed/" htmlUrl="https://www.pingwest.com"/>
+            <outline type="rss" text="好奇心日报" title="好奇心日报" xmlUrl="http://qdaily.com/feed/" htmlUrl="http://www.qdaily.com"/>
+        </outline>
+        <outline text="FE" title="FE">
+            <outline type="rss" text="Frontend Focus" title="Frontend Focus" xmlUrl="https://frontendfoc.us/rss/10pc5mkf" htmlUrl="https://frontendfoc.us/"/>
+            <outline type="rss" text="Void Canvas" title="Void Canvas" xmlUrl="http://voidcanvas.com/feed/" htmlUrl="http://voidcanvas.com"/>
+            <outline type="rss" text="Hi, we're Arkency" title="Hi, we're Arkency" xmlUrl="https://blog.arkency.com/atom.xml" htmlUrl="http://blog.arkency.com/"/>
+            <outline type="rss" text="Codrops" title="Codrops" xmlUrl="http://feeds.feedburner.com/tympanus" htmlUrl="https://tympanus.net/codrops"/>
+            <outline type="rss" text="Articles on Smashing Magazine — For Web Designers And Developers" title="Articles on Smashing Magazine — For Web Designers And Developers" xmlUrl="http://www.smashingmagazine.com/feed/" htmlUrl="https://www.smashingmagazine.com/articles/"/>
+            <outline type="rss" text="Dave Ceddia" title="Dave Ceddia" xmlUrl="https://daveceddia.com/feed.xml" htmlUrl="https://daveceddia.com"/>
+            <outline type="rss" text="Overreacted" title="Overreacted" xmlUrl="https://overreacted.io/rss.xml" htmlUrl="https://overreacted.io"/>
+            <outline type="rss" text="Marius Schulz" title="Marius Schulz" xmlUrl="http://feeds.feedburner.com/mariusschulz.xml" htmlUrl="https://mariusschulz.com"/>
+            <outline type="rss" text="Jake Archibald's Blog" title="Jake Archibald's Blog" xmlUrl="http://jakearchibald.com/posts.rss" htmlUrl="http://jakearchibald.com/"/>
+        </outline>
+        <outline text="新闻" title="新闻">
+            <outline type="rss" text="澎湃新闻" title="澎湃新闻" xmlUrl="https://feedx.net/rss/thepaper.xml" htmlUrl="http://thepaper.cn"/>
+            <outline type="rss" text="纽约时报" title="纽约时报" xmlUrl="https://feedx.net/rss/nytimes.xml" htmlUrl="http://nytimes.com"/>
+        </outline>
+        <outline type="rss" text="国家地理中文" title="国家地理中文" xmlUrl="https://feedx.net/rss/nationalgeocn.xml" htmlUrl="https://www.nationalgeographic.com"/>
+    </body>
+</opml>
